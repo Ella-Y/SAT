@@ -1,0 +1,4 @@
+좌표정렬하기(백준) : https://www.acmicpc.net/problem/11650
+N-Queen(백준) : https://www.acmicpc.net/problem/9663
+삼각형 정렬(Euler Project) : http://euler.synap.co.kr/prob_detail.php?id=18
+로버트 후드(백준) : https://www.acmicpc.net/problem/9240
