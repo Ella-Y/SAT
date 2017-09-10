@@ -1,0 +1,9 @@
+﻿EASY
+https://code.plus/course/4 - 오늘  문제 1. 알고리즘과 입출력
+			     다음주문제 2. 자료구조
+MEDIUM
+prjEuler16 http://euler.synap.co.kr/prob_detail.php?id=16
+prjEuler35 http://euler.synap.co.kr/prob_detail.php?id=35
+
+HARD
+SCPC 3차 본선 Vowels(1번 문제) https://www.codeground.org/practice/practiceProblemView
